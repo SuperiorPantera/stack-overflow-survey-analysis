@@ -17,3 +17,6 @@ Analysis of the Stack Overflow Developer Survey dataset using Python and Pandas.
 
 ## Dataset
 Stack Overflow Developer Survey
+
+## If the notebook does not render correctly on GitHub, you can view it via NBViewer:
+https://nbviewer.org/github/SuperiorPantera/stack-overflow-survey-analysis/blob/main/Stack_Overflow_Analysis.ipynb
